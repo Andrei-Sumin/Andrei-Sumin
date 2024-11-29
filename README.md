@@ -1,7 +1,8 @@
 ## 👋 Hi, I'm Andrei Sumin!
 
 ## About Me
-- 🎓 Master's in Management Engineering at Politecnico di Milano
+- 🎓 MSc in Management Engineering at Politecnico di Milano
+- 🎓 Specialsit's in Mechanical Engineering at BMSTU
 - 🔧 Experienced in energy and industrial technologies
 - 🌱 Exploring Machine Learning and Industry 4.0
 
