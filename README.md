@@ -1,16 +1,13 @@
-## Hi there 👋
+## 👋 Hi, I'm Andrei Sumin!
 
-<!--
-**Andrei-Sumin/Andrei-Sumin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🎓 Master's in Management Engineering at Politecnico di Milano
+- 🔧 Experienced in energy and industrial technologies
+- 🌱 Exploring Machine Learning and Industry 4.0
 
-Here are some ideas to get you started:
+## 🛠 Skills
+- Programming: Python, AutoCAD
+- Tools: Power BI, Data Analytics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Let's Connect
+- [LinkedIn](https://www.linkedin.com/in/AndreiSumin/)
