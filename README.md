@@ -2,9 +2,7 @@
 
 ## About Me
 - 🎓 MSc in Management Engineering at Politecnico di Milano
-- 🎓 Specialsit's in Mechanical Engineering at BMSTU
-- 🔧 Experienced in energy and industrial technologies
-- 🌱 Exploring Machine Learning and Industry 4.0
+- 🎓 Specialist in Mechanical Engineering at BMSTU
 
 ## 🛠 Skills
 - Programming: Python, AutoCAD
