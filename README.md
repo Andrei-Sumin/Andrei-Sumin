@@ -13,15 +13,15 @@ I am a **Mechanical** and **Industrial** Engineer with a versatile skill set spa
 
 - [**Statistical Process-Control for Quality Monitoring**](link)  
   *Quality monitoring using Statistical Process Control (SPC) techniques for defect detection in 3D-printed components.*<br>
-  ![Quality Control](https://img.shields.io/badge/Quality%20Control-91c7d6?style=flat&labelColor=91c7d6)
+  [![Quality Control](https://img.shields.io/badge/Quality%20Control-91c7d6?style=flat&labelColor=91c7d6)](link)
 
 - [**Accenture Dashboard Challenge**](https://github.com/Andrei-Sumin/Accenture-Dashboard-Challenge)  
   *Kering Group financial analytics dashboard.*<br>
-  ![Dashboard](https://img.shields.io/badge/Dashboard-A8D5BA?style=flat&labelColor=A8D5BA)
+  [![Dashboard](https://img.shields.io/badge/Dashboard-A8D5BA?style=flat&labelColor=A8D5BA)](https://github.com/Andrei-Sumin/Accenture-Dashboard-Challenge)
 
 - [**Loan Approval Prediction** - a machine learning course assignment](https://github.com/Andrei-Sumin/Loan-Approval-Prediction-ML-class-assignment)  
   *Loan approval prediction using machine learning (various classification models)*.<br>
-  ![Classification](https://img.shields.io/badge/Classification-FAD4C0?style=flat&labelColor=FAD4C0)
+  [![Classification](https://img.shields.io/badge/Classification-FAD4C0?style=flat&labelColor=FAD4C0)](https://github.com/Andrei-Sumin/Loan-Approval-Prediction-ML-class-assignment)
 
 
 ## 🛠 Skills
