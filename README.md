@@ -8,6 +8,8 @@ I am a **Mechanical** and **Industrial** Engineer with a versatile skill set spa
 - 🎓 Training Courses in Product Management at BMSTU
 
 ## 📂 My Projects 
+- - [**Statistical Process Control for 3D-Printed Parts**](link)  
+  *Description:* Quality monitoring using Statistical Process Control (SPC) techniques for defect detection in 3D-printed components.
 
 
 
