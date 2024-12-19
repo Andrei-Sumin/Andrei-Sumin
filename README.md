@@ -19,9 +19,9 @@ I am a **Mechanical** and **Industrial** Engineer with a versatile skill set spa
   *Kering Group financial analytics dashboard.*<br>
   [![Dashboard](https://img.shields.io/badge/Dashboard-A8D5BA?style=flat&labelColor=A8D5BA)](https://github.com/Andrei-Sumin/Accenture-Dashboard-Challenge)
 
-- [**Loan Approval Prediction** - a machine learning course assignment](https://github.com/Andrei-Sumin/Loan-Approval-Prediction-ML-class-assignment)  
-  *Loan approval prediction using machine learning (various classification models)*.<br>
-  [![Classification | Regression ](https://img.shields.io/badge/Classification-FAD4C0?style=flat&labelColor=FAD4C0)](https://github.com/Andrei-Sumin/Loan-Approval-Prediction-ML-class-assignment)
+- [**Machine Learning Course Assignments**](https://github.com/Andrei-Sumin/Machine-Learning-class-assignments)  
+  *University course assignments on classification and regression*.<br>
+  [![Machine Learning](https://img.shields.io/badge/Machine-Learning-FAD4C0?style=flat&labelColor=FAD4C0)](https://github.com/Andrei-Sumin/Machine-Learning-class-assignments)
 
 
 ## 🛠 Skills
