@@ -21,7 +21,7 @@ I am a **Mechanical** and **Industrial** Engineer with a versatile skill set spa
 
 - [**Loan Approval Prediction** - a machine learning course assignment](https://github.com/Andrei-Sumin/Loan-Approval-Prediction-ML-class-assignment)  
   *Loan approval prediction using machine learning (various classification models)*.<br>
-  [![Classification](https://img.shields.io/badge/Classification-FAD4C0?style=flat&labelColor=FAD4C0)](https://github.com/Andrei-Sumin/Loan-Approval-Prediction-ML-class-assignment)
+  [![Classification | Regression ](https://img.shields.io/badge/Classification-FAD4C0?style=flat&labelColor=FAD4C0)](https://github.com/Andrei-Sumin/Loan-Approval-Prediction-ML-class-assignment)
 
 
 ## 🛠 Skills
