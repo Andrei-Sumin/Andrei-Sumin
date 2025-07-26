@@ -26,6 +26,7 @@ I am a **Mechanical** and **Industrial** Engineer with a versatile skill set spa
 
 ## 🛠 Skills
 - Python (data analytics applications)
+- SQL
 - PowerBI
 - EXCEL
 - Various CAD software
