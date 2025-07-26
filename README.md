@@ -19,9 +19,15 @@ I am a **Mechanical** and **Industrial** Engineer with a versatile skill set spa
   *Kering Group financial analytics dashboard.*<br>
   [![Dashboard](https://img.shields.io/badge/Dashboard-A8D5BA?style=flat&labelColor=A8D5BA)](https://github.com/Andrei-Sumin/Accenture-Dashboard-Challenge)
 
+- [**PWC Agile Project**](https://github.com/Andrei-Sumin/PWC-Agile-Project-Management)
+  *Agile-based strategy for digitizing a motor insurance company, developed with PwC and Politecnico di Milano.*<br>
+  [![Agile Project Management](https://img.shields.io/badge/Agile%20Project%20Management-FBE6C2?style=flat&labelColor=FBE6C2)](https://github.com/Andrei-Sumin/sicura-agile-project)
+
 - [**Machine Learning Course Assignments**](https://github.com/Andrei-Sumin/Machine-Learning-class-assignments)  
   *University course assignments on classification and regression*.<br>
   [![Machine Learning](https://img.shields.io/badge/Machine-Learning-FAD4C0?style=flat&labelColor=FAD4C0)](https://github.com/Andrei-Sumin/Machine-Learning-class-assignments)
+
+  
 
 
 ## 🛠 Skills
